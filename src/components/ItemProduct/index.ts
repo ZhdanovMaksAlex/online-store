@@ -1,0 +1,2 @@
+export { ItemProduct } from "./ItemProduct";
+
